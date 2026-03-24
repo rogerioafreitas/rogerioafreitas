@@ -1,54 +1,37 @@
-# Hi 👋, I'm
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Rogério+de+Araújo+Freitas;CS+Student+@+UFPEL;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=I%27m+Rogério+de+Araújo+Freitas;CS+Student+@+UFPEL;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </a>
 
-I'm a developer focused on building solid foundations in Computer Science. Currently, I'm diving deep into **low-level programming** (C), **Artificial Intelligence**, and the social impacts of technology.
+Focused on building solid foundations in Computer Science, bridging **low-level programming** (C) with **Artificial Intelligence**.
 
 ---
 
-### 🧠 Primary Interest: Artificial Intelligence
+### 🧠 Core Focus: AI & ML Foundations
 
-My ultimate goal is to work at the intersection of core Computer Science principles and advanced AI. I'm fascinated by how we can use low-level optimization to make AI systems faster and more efficient.
-
-**Specific Interests:**
-* **Machine Learning & Deep Learning Foundations.**
-* **Neural Network Architecture.**
-* **The Ethics and Sociology of AI & Surveillance.**
+* **Interests:** Machine Learning, Deep Learning, Neural Networks.
+* **Research:** Ethics & Sociology of AI and Surveillance.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** C (Current focus: Pointers, Memory Management), Python, JavaScript.
-* **Academic:** Data Structures, Algorithms, Sociology of Tech.
-* **Tools:** Git, GitHub, Linux.
+* **Current Focus (C):** Memory Management, Pointers, Low-Level Opt.
+* **Languages:** C, Python, JavaScript.
+* **Tools:** Git, Linux, MySQL.
 
 ---
 
-### 🚀 Current Projects
+### 🚀 Featured Projects
 
-* **Playlist Manager in C:** A project using dynamically allocated linked lists and file handling.
-* **Sociology & Tech Research:** Studying the genealogy of digital predators and drone theory.
-* *(Future AI Project Slot): Planning a Python/C integration for an ML model.*
-
----
-
-### 🎹 Beyond the Code
-
-When I'm not debugging or studying for UFPEL:
-* Playing **Chopin** on the piano 🎹.
-* Studying the art of **Mixology** 🍸.
-* Exploring **Fantasy & Isekai** (Anime/Manhwa) 🐉.
+* **Playlist Manager (C):** Dynamic Memory, Data Structures.
+* *Future AI Slot: Python/C integration for ML inference.*
 
 ---
 
-### 📬 Connect with me
+### 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogerio-araujo-freitas/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogerio-araujo-freitas/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rogerio.rdaf@gmail.com)
 
 > "The question is not whether machines think, but whether men do." — B.F. Skinner
