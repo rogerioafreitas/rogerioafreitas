@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rogério Freitas
 ### A beginner developer from Brazil, AI enthusiast.
 
-## Connect with me: https://www.linkedin.com/in/rogeriofreitas2802/
+
 
 ## Languages and Tools:
 <a href="https://golang.org" target="_blank" rel="noreferrer">
