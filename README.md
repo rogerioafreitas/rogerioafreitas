@@ -1,6 +1,7 @@
+# Hi 👋, I'm
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=I%27m+Rogério+de+Araújo+Freitas;CS+Student+@+UFPEL;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=false&v=1&width=435&lines=Rog%C3%A9rio+de+Ara%C3%BAjo+Freitas;CS+Student+@+UFPEL;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </a>
 
 Focused on building solid foundations in Computer Science, bridging **low-level programming** (C) with **Artificial Intelligence**.
