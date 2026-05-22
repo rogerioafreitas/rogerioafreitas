@@ -34,5 +34,6 @@ Focused on building solid foundations in Computer Science, bridging **low-level 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogerio-araujo-freitas/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rogerio.rdaf@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5571987963770)
 
 > "The question is not whether machines think, but whether men do." — B.F. Skinner
